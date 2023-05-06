@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">My WeatherApp</string>
+    <string name="globe_icon_desc">Globe icon</string>
+    <string name="app_name_text">MyWeather</string>
+    <string name="delete_all_button_desc">Delete all button</string>
+    <string name="fab_desc">FAB</string>
+    <string name="card_description_text">Please fill out the city name field.</string>
+    <string name="city_name_label">City Name</string>
+    <string name="error_desc">Error desc</string>
+    <string name="cancel_text">Cancel</string>
+    <string name="add_city_text">Add city</string>
+    <string name="click_here_to_watch_report_text">Click here to watch report…</string>
+    <string name="x_icon_desc">X icon</string>
+    <string name="back_arrow_desc">Back arrow desc</string>
+    <string name="live_data_text">Live data</string>
+    <string name="metric_param">metric</string>
+    <string name="api_key_param">0c4fdc7ce412fc6190d2983369144d6c</string>
+    <string name="refresh_icon_desc">Refresh icon desc</string>
+    <string name="image_desc">Image</string>
+    <string name="cityname_nav_text">cityName</string>
+    <string name="weather_nav_text">weather/%1$s</string>
+    <string name="async_img_param">https://openweathermap.org/img/w/%1$s.png</string>
+    <string name="marker_param">" Temperature: %1$f °C, Humidity: %2$d %, Clouds: %3$d %</string>
+</resources>
